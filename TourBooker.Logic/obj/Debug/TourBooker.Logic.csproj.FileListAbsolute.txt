@@ -1,0 +1,6 @@
+C:\src\playground\Pluralsight\TourBooker\TourBooker.Logic\bin\Debug\TourBooker.Logic.dll
+C:\src\playground\Pluralsight\TourBooker\TourBooker.Logic\bin\Debug\TourBooker.Logic.pdb
+C:\src\playground\Pluralsight\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.csproj.AssemblyReference.cache
+C:\src\playground\Pluralsight\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.csproj.CoreCompileInputs.cache
+C:\src\playground\Pluralsight\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.dll
+C:\src\playground\Pluralsight\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.pdb
